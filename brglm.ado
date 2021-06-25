@@ -1,4 +1,4 @@
-* Version 1.0.0 - 14 November 2017
+* Version 1.0.1 - 25 Jun 2021
 
 * By Johannes S. Kunz, Kevin E. Staub & Rainer Winkelmann
 * See helpfile for explanations. 
@@ -124,7 +124,7 @@ cap program drop brglm
 		*/ _col(69) as res %10.0gc e(N)
 	di ""												   //add pseudo R^2?
 	di ""
-	di as text  "Log-likelihood: " as result e(ll)        // Display log-likelihood
+	di as text  "Log-likelihood: " as result `ll'        // Display log-likelihood
 	di ""												  //add if robust/cluster notification
 	local depn "`lhs'"
 	local N=e(N)

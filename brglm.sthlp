@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 1.0.0 29oct2017}{…}
+{* *! version 1.0.1 25jun2021}{…}
 {cmd:help brglm} 
 {hline}
 
@@ -123,7 +123,6 @@
 Kosmidis, Ioannis & David Firth. 2009. 
 	‘Bias reduction in exponential family nonlinear models.’ {it: Biometrika}, 96(4):793–804.
 
-Kunz, Johannes S., Kevin E. Staub & Rainer Winkelmann. 2017. 
-	‘Estimating fixed effects: Perfect prediction and bias in binary response panel models, 
-	with an application to the Hospital Readmissions Reduction Program.’ {it: SSRN Working Paper No.} 3074193.
+Kunz, Johannes S., Kevin E. Staub & Rainer Winkelmann. 2021. 
+	‘Predicting Individual Effects in Fixed Effects Panel Probit Models.’ {it: Journal of the Royal Statistical Society: Series A. Forthcoming}.
 
